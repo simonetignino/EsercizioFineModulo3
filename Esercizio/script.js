@@ -16,12 +16,12 @@ function checkScroll() {
   } else {
     arrayElementi[0].style.display = 'none';
   }
-  if (scrollPosition >= 600) {
+  if (scrollPosition >= 650) {
     arrayElementi[1].style.display = 'block';
   } else {
     arrayElementi[1].style.display = 'none';
   }
-  if (scrollPosition >= 800) {
+  if (scrollPosition >= 1050) {
     arrayElementi[2].style.display = 'block';
   } else {
     arrayElementi[2].style.display = 'none';
